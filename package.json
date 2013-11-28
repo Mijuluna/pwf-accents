@@ -1,0 +1,19 @@
+{
+	"name":"pwf-storage",
+	"version":"1.0.1",
+	"description":"Storage wrapper for frontend apps. Chooses best client storage available with single interface.",
+	"author":"just-paja <just-paja@gmail.com>",
+	"license":"GPLv3",
+	"main":"./lib/storage.js",
+	"dependencies":{
+		"pwf.js":"latest"
+	},
+	"license":"GPLv3",
+	"scripts":{
+		"test":"echo Running tests... && mocha --globals testRule"
+	},
+	"repository":{
+		"type":"git",
+		"url":"https://github.com/just-paja/pwf-storage.git"
+	}
+}
