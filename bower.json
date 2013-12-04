@@ -1,6 +1,5 @@
 {
 	"name":"pwf-accents",
-	"version":"1.0.1",
 	"main":"lib/accents.js",
 	"ignore":[
 		"test",
