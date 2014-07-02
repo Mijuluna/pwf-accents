@@ -1,10 +1,10 @@
 {
-	"name":"pwf-storage",
+	"name":"pwf-accents",
 	"version":"1.0.1",
 	"description":"Storage wrapper for frontend apps. Chooses best client storage available with single interface.",
 	"author":"just-paja <just-paja@gmail.com>",
 	"license":"GPLv3",
-	"main":"./lib/storage.js",
+	"main":"./lib/accents.js",
 	"dependencies":{
 		"pwf.js":"latest"
 	},
