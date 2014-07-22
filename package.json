@@ -1,6 +1,6 @@
 {
 	"name":"pwf-accents",
-	"version":"1.1.0",
+	"version":"1.1.1",
 	"description":"Storage wrapper for frontend apps. Chooses best client storage available with single interface.",
 	"author":"just-paja <just-paja@gmail.com>",
 	"license":"GPLv3",
@@ -17,7 +17,7 @@
 		"url":"https://github.com/just-paja/pwf-accents.git"
 	},
 
-	"files":[
+	"include":[
 		"lib/accents"
 	]
 }
