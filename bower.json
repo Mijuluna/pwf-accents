@@ -9,6 +9,6 @@
 		"node_modules"
 	],
 	"dependencies":{
-		"pwf.js":"latest"
+		"pwf.js":"~1.0"
 	}
 }

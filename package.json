@@ -6,7 +6,7 @@
 	"license":"GPLv3",
 	"main":"./lib/accents.js",
 	"dependencies":{
-		"pwf.js":"latest"
+		"pwf.js":"~1.0"
 	},
 	"license":"GPLv3",
 	"scripts":{
